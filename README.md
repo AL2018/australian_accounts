@@ -1,2 +1,7 @@
-# australian_accounts
-australian_accounts
+## Australian Accounts
+
+Accounts additions and customisations for Australian market
+
+#### License
+
+MIT
